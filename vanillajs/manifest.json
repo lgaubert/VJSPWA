@@ -2,13 +2,12 @@
     "lang" : "en",
     "name" : "VanillaJS • TodoMVC",
     "scope" : "./",
-    "display" : "browser",
+    "display" : "standalone",
     "start_url" : "./",
     "short_name" : "VanillaJS ",
     "theme_color" : "transparent",
     "description" : "",
-    "orientation" : "any",
+    "orientation" : "portrait",
     "background_color" : "transparent",
-    "generated" : "true",
     "icons" : [
     ]}
