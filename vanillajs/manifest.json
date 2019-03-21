@@ -1,0 +1,16 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "VanillaJS • TodoMVC",
+    "scope" : "/VJSPWA/vanillajs/",
+    "display" : "browser",
+    "start_url" : "https://lgaubert.github.io/VJSPWA/vanillajs/",
+    "short_name" : "VanillaJS ",
+    "theme_color" : "transparent",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+    ]}
