@@ -1,9 +1,9 @@
 {
     "lang" : "en",
     "name" : "VanillaJS • TodoMVC",
-    "scope" : "/VJSPWA/vanillajs/",
+    "scope" : "./",
     "display" : "browser",
-    "start_url" : "/VJSPWA/vanillajs/",
+    "start_url" : "./",
     "short_name" : "VanillaJS ",
     "theme_color" : "transparent",
     "description" : "",
