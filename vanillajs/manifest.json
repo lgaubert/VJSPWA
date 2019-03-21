@@ -1,7 +1,7 @@
 {"dir" : "ltr",
     "lang" : "en",
     "name" : "VanillaJS • TodoMVC",
-    "scope" : "/VJSPWA/vanillajs/",
+    "scope" : "./",
     "display" : "browser",
     "start_url" : "https://lgaubert.github.io/VJSPWA/vanillajs/",
     "short_name" : "VanillaJS ",
