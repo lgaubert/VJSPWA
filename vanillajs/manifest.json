@@ -8,6 +8,7 @@
     "theme_color" : "transparent",
     "description" : "",
     "orientation" : "portrait",
+    "splash_pages": null
     "background_color" : "transparent",
     "icons" : [
       {
@@ -15,5 +16,4 @@
       "sizes": "192x192",
       "type": "image/png"
       }
-     "splash_pages": null
     ]}
