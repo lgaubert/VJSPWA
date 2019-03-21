@@ -1,6 +1,8 @@
 const staticAssets = [
     './',
-    './styles.css',
+    './node_modules/todomvc-common/base.css,
+    './node_modules/todomvc-common/base.js,
+    './node_modules/todomvc-app-css/index.css,
     './app.js'
 ];
 
