@@ -8,7 +8,7 @@
     "theme_color" : "transparent",
     "description" : "",
     "orientation" : "portrait",
-    "splash_pages": null,
+    "splash_pages" : null,
     "background_color" : "transparent",
     "icons" : [
       {
